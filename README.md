@@ -35,3 +35,10 @@ To use or modify the Tip Calculator app, follow these steps:
 ## Screenshots
 
 ![Screenshot](https://github.com/Sieschkie/Tip_Calculator.Kotlin.Android/blob/master/312.png)
+
+Installation of APK
+- Download the APK file from the releases section.
+- On your device, navigate to Settings > Security (or Settings > Security and Privacy) and enable installation from unknown sources.
+- Use any file manager to locate the downloaded APK file and launch it to start the installation.
+- Follow the on-screen instructions to complete the installation of the application.
+- This will help users understand how to install your application using the APK file if they need to.
