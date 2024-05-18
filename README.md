@@ -1,7 +1,8 @@
 # Tip Calculator
 
+<p>Tipping is a way to show your satisfaction and your gratitude for the service you get. However, it's a pain in the neck to calculate the amount of tip, so i had to create a handy tool that will make it easier!</p>
+
 ## Overview
-<p>Tipping is a way to show your satisfaction and your gratitude for the service you get. However, it's a pain in the neck to calculate the amount of tip, so i had to create a handy tool that will make it easier!</p><br/><br/>
 
 This is a simple Android application that calculates the tip amount based on the bill amount and tip percentage. The app uses `EditText` for user input, a `SeekBar` for selecting the tip percentage, and `TextView`s to display the calculated bill value and tip amount. The tip amount is updated dynamically as the user inputs the bill amount or changes the tip percentage.
 
