@@ -22,7 +22,7 @@ To use or modify the Tip Calculator app, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tip-calculator.git
+    git clone https://github.com/Sieschkie/Tip_Calculator.Kotlin.Android.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
