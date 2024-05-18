@@ -17,10 +17,6 @@ This is a simple Android application that calculates the tip amount based on the
 - **Data Handling:** Using `BigDecimal` for accurate financial calculations and ensuring proper input validation.
 - **UI Design:** Designing a user-friendly interface with proper layout constraints and visibility management.
 
-## Screenshots
-
-![Screenshot](https://github.com/Sieschkie/Tip_Calculator.Kotlin.Android/blob/master/312.png)
-
 ## Installation
 To use or modify the Tip Calculator app, follow these steps:
 
@@ -35,3 +31,7 @@ To use or modify the Tip Calculator app, follow these steps:
 1. Enter the bill amount in the provided EditText field.
 2. Adjust the tip percentage using the SeekBar.
 3. View the calculated tip amount and the total amount in the corresponding TextViews.
+   
+## Screenshots
+
+![Screenshot](https://github.com/Sieschkie/Tip_Calculator.Kotlin.Android/blob/master/312.png)
